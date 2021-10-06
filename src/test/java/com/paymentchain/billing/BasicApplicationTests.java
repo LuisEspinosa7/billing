@@ -51,6 +51,7 @@ public class BasicApplicationTests {
 	//Test 4
 	//Test 5
 	//Test 6
+	//Test 7
   
     @Autowired
     private MockMvc mockMvc;
