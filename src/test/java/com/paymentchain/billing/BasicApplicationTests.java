@@ -46,6 +46,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 public class BasicApplicationTests {
 	
 	//Test 1
+	//Test 2
   
     @Autowired
     private MockMvc mockMvc;
